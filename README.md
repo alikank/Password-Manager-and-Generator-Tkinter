@@ -1,6 +1,4 @@
-# password-manager-and-generator-tkinter
-
-# Şifre Yöneticisi
+# 🔑 Şifre Yöneticisi
 
 Bu basit proje istediğiniz uzunlukta parola üretir ve parolalarınızı yönetmeye imkan sağlar. Parolalarınız sqlite veritanında saklanır, grafik arayüzü için tkinter kullanılmıştır.
 
